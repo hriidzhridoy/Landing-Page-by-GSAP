@@ -97,3 +97,11 @@ img{
     right: 3%;
     border-radius: 5px;
 }
+
+h5{
+    position: absolute;
+    bottom : 10%;
+    left: 50%;
+    font-size: 18px;
+    justify-content: center;
+}
